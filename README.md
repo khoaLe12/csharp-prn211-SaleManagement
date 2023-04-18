@@ -1,4 +1,4 @@
-# ASSIGNMENT 02 PRN211 SE1609 GROUP 2
+# Assignmnet 02 - PRN211 - Sale Management System
 ## LECTURER
  **BUI HUU DONG**
 ## TEAM MEMBER 
