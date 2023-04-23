@@ -18,3 +18,6 @@ This Window Form Application is developed for member management, product managem
 * Admin: member management, product management, order management, view sales statistics
 * Member: View order history
 ### Some pictures:
+![Login Page](https://github.com/khoaLe12/csharp-prn211-BankManagement/blob/main/Pictures/Screenshot%202023-04-17%20212750.png)
+![Admin Page](https://github.com/khoaLe12/csharp-prn211-BankManagement/blob/main/Pictures/Screenshot%202023-04-17%20212750.png)
+![Member Page](https://github.com/khoaLe12/csharp-prn211-BankManagement/blob/main/Pictures/Screenshot%202023-04-17%20212750.png)
