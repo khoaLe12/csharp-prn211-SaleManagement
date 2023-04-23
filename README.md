@@ -7,3 +7,8 @@
 - Ngo Gia Thuong
 - Nguyen Quoc Huy Chuong
 - Nguyen Duc Thang
+## Tech Stacks
+* IDE: Visual Studio
+* Framework: .NET 6, EF Core, Windows Forms
+* Query tech: LINQ
+* Database: MS SQL Server
